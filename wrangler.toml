@@ -1,0 +1,14 @@
+name = "twitter-profile-api"
+main = "src/index.ts"
+workers_dev = true
+compatibility_date = "2023-08-07"
+
+[build]
+command = "npm install && npm run build"
+
+[placement]
+mode = "off"
+
+[[r2_buckets]]
+binding = 'MY_BUCKET' # <~ valid JavaScript variable name
+bucket_name = 'moonwell-twitter-cache'

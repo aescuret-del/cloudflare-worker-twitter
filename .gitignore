@@ -1,0 +1,5 @@
+node_modules
+dist
+.mf
+.idea/
+.env
