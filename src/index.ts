@@ -31,8 +31,8 @@ export default {
 
     if (
       (object === null) ||
-      (object.uploaded.getTime() < (Date.now()) - 600_000)
-    ) { // Cached object is not found or older than 10 minutes ago
+      (object.uploaded.getTime() < (Date.now()) - 901_000)
+    ) { // Cached object is not found or older than 15 minutes ago
       console.log('Cache miss, fetching new data...')
       let response: Response
       let twitterUrl: string
