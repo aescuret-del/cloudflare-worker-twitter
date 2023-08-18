@@ -42,7 +42,8 @@ export default {
       twitterUrl = 'https://api.twitter.com/2/users/' +
         userid +
         '/liked_tweets?max_results=' +
-        max_results
+        max_results +
+        '&tweet.fields=created_at,entities,public_metrics&expansions=author_id&user.fields=profile_image_url,username'
       console.log('About to fetch: ', twitterUrl)
       response = await fetch(
         twitterUrl,
