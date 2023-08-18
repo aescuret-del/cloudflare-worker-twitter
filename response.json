@@ -1,1 +1,252 @@
-{"data":[{"entities":{"cashtags":[{"start":27,"end":32,"tag":"WELL"}],"mentions":[{"start":0,"end":13,"username":"MoonwellDeFi","id":"1472197491844026370"},{"start":14,"end":26,"username":"BuildOnBase","id":"1628067904083181570"}]},"created_at":"2023-08-18T15:47:54.000Z","public_metrics":{"retweet_count":0,"reply_count":0,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":27},"id":"1692563982459252995","text":"@MoonwellDeFi @BuildOnBase $WELL done!","edit_history_tweet_ids":["1692563982459252995"],"author_id":"130948068"},{"entities":{"annotations":[{"start":95,"end":101,"probability":0.9152,"type":"Place","normalized_text":"America"}],"urls":[{"start":232,"end":255,"url":"https://t.co/YfHMqoDsod","expanded_url":"https://www.standwithcrypto.org/","display_url":"standwithcrypto.org","status":200,"title":"Stand with Crypto Alliance","description":"Stand with Crypto Alliance is a non-profit organization dedicated to uniting global crypto advocates.","unwound_url":"https://www.standwithcrypto.org/"},{"start":256,"end":279,"url":"https://t.co/dJaRQMcMoE","expanded_url":"https://twitter.com/Nick_Prince12/status/1692398848797491380/photo/1","display_url":"pic.twitter.com/dJaRQMcMoE","media_key":"3_1692398845194543104"}]},"created_at":"2023-08-18T04:51:43.000Z","public_metrics":{"retweet_count":5,"reply_count":2,"like_count":26,"quote_count":0,"bookmark_count":0,"impression_count":1372},"id":"1692398848797491380","text":"y’all really letting me post up here?\n\nwe’re entering THE defining period for crypto policy in America. this is the fight we’ve always known was coming.  best part is we can win. \n\ndon’t regret not doing more. stand with crypto 🛡️\n\nhttps://t.co/YfHMqoDsod https://t.co/dJaRQMcMoE","edit_history_tweet_ids":["1692398848797491380"],"author_id":"945479718157025280"},{"entities":{"mentions":[{"start":0,"end":14,"username":"Nick_Prince12","id":"945479718157025280"},{"start":52,"end":66,"username":"Nick_Prince12","id":"945479718157025280"}],"urls":[{"start":117,"end":140,"url":"https://t.co/EmqqyvEDcy","expanded_url":"https://www.standwithcrypto.org/","display_url":"standwithcrypto.org","status":200,"title":"Stand with Crypto Alliance","description":"Stand with Crypto Alliance is a non-profit organization dedicated to uniting global crypto advocates.","unwound_url":"https://www.standwithcrypto.org/"},{"start":141,"end":164,"url":"https://t.co/faEEDAjNlr","expanded_url":"https://twitter.com/IQWIKI/status/1692484455368392791/photo/1","display_url":"pic.twitter.com/faEEDAjNlr","media_key":"3_1692484063809159168"}]},"created_at":"2023-08-18T10:31:53.000Z","public_metrics":{"retweet_count":0,"reply_count":2,"like_count":5,"quote_count":0,"bookmark_count":0,"impression_count":71},"id":"1692484455368392791","text":"@Nick_Prince12 We couldn't let you keep first place @Nick_Prince12, just minted 99 NFTs in support of the movement!\n\nhttps://t.co/EmqqyvEDcy https://t.co/faEEDAjNlr","edit_history_tweet_ids":["1692484455368392791"],"author_id":"2896892108"},{"created_at":"2023-08-18T14:39:01.000Z","public_metrics":{"retweet_count":2,"reply_count":0,"like_count":11,"quote_count":0,"bookmark_count":0,"impression_count":935},"id":"1692546647530844324","entities":{"urls":[{"start":6,"end":29,"url":"https://t.co/Oo8XAhnhO6","expanded_url":"https://twitter.com/MoonwellDeFi/status/1692545691489325430","display_url":"twitter.com/MoonwellDeFi/s…"}]},"text":"lfggg https://t.co/Oo8XAhnhO6","edit_history_tweet_ids":["1692546647530844324"],"author_id":"945479718157025280"},{"entities":{"annotations":[{"start":38,"end":48,"probability":0.8095,"type":"Other","normalized_text":"DeFi Summer"}],"mentions":[{"start":4,"end":14,"username":"zapper_fi","id":"1208076242366283776"}],"urls":[{"start":248,"end":271,"url":"https://t.co/VrrdY2WbEA","expanded_url":"https://twitter.com/zapper_fi/status/1692174082069110842","display_url":"twitter.com/zapper_fi/stat…"}]},"created_at":"2023-08-18T03:04:03.000Z","public_metrics":{"retweet_count":9,"reply_count":1,"like_count":39,"quote_count":1,"bookmark_count":0,"impression_count":7455},"id":"1692371752457027920","text":"I 🩷 @zapper_fi - those of us early to DeFi Summer in 2020 fondly remember zapping into farms with single-sided liquidity and hitting refresh on the page constantly to watch our net worth go up... Such an amazing project that continues to innovate! https://t.co/VrrdY2WbEA","edit_history_tweet_ids":["1692371752457027920"],"author_id":"86364019"}],"includes":{"users":[{"name":"Adabel Guerrero","id":"130948068","username":"adabelguerrero","profile_image_url":"https://pbs.twimg.com/profile_images/1516832024274812934/kqd-bPHk_normal.jpg"},{"name":"nickprince.eth 🛡","id":"945479718157025280","username":"Nick_Prince12","profile_image_url":"https://pbs.twimg.com/profile_images/1689347682131914752/5Z5MI_9Z_normal.jpg"},{"name":"IQ.wiki","id":"2896892108","username":"IQWIKI","profile_image_url":"https://pbs.twimg.com/profile_images/1646592753672032256/UzgksJ8r_normal.png"},{"name":"LukeYoungblood.eth 🛡️","id":"86364019","username":"LukeYoungblood","profile_image_url":"https://pbs.twimg.com/profile_images/1601992887016706048/dJx3h7YZ_normal.jpg"}]},"meta":{"result_count":5,"next_token":"7140dibdnow9c7btw4831ncfpyt8l7x6wnge6hw6gwdh0"}}
+{
+  "data": [
+    {
+      "entities": {
+        "cashtags": [
+          {
+            "start": 27,
+            "end": 32,
+            "tag": "WELL"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 0,
+            "end": 13,
+            "username": "MoonwellDeFi",
+            "id": "1472197491844026370"
+          },
+          {
+            "start": 14,
+            "end": 26,
+            "username": "BuildOnBase",
+            "id": "1628067904083181570"
+          }
+        ]
+      },
+      "created_at": "2023-08-18T15:47:54.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 27
+      },
+      "id": "1692563982459252995",
+      "text": "@MoonwellDeFi @BuildOnBase $WELL done!",
+      "edit_history_tweet_ids": [
+        "1692563982459252995"
+      ],
+      "author_id": "130948068"
+    },
+    {
+      "entities": {
+        "annotations": [
+          {
+            "start": 95,
+            "end": 101,
+            "probability": 0.9152,
+            "type": "Place",
+            "normalized_text": "America"
+          }
+        ],
+        "urls": [
+          {
+            "start": 232,
+            "end": 255,
+            "url": "https://t.co/YfHMqoDsod",
+            "expanded_url": "https://www.standwithcrypto.org/",
+            "display_url": "standwithcrypto.org",
+            "status": 200,
+            "title": "Stand with Crypto Alliance",
+            "description": "Stand with Crypto Alliance is a non-profit organization dedicated to uniting global crypto advocates.",
+            "unwound_url": "https://www.standwithcrypto.org/"
+          },
+          {
+            "start": 256,
+            "end": 279,
+            "url": "https://t.co/dJaRQMcMoE",
+            "expanded_url": "https://twitter.com/Nick_Prince12/status/1692398848797491380/photo/1",
+            "display_url": "pic.twitter.com/dJaRQMcMoE",
+            "media_key": "3_1692398845194543104"
+          }
+        ]
+      },
+      "created_at": "2023-08-18T04:51:43.000Z",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 2,
+        "like_count": 26,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1372
+      },
+      "id": "1692398848797491380",
+      "text": "y’all really letting me post up here?\n\nwe’re entering THE defining period for crypto policy in America. this is the fight we’ve always known was coming.  best part is we can win. \n\ndon’t regret not doing more. stand with crypto 🛡️\n\nhttps://t.co/YfHMqoDsod https://t.co/dJaRQMcMoE",
+      "edit_history_tweet_ids": [
+        "1692398848797491380"
+      ],
+      "author_id": "945479718157025280"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Nick_Prince12",
+            "id": "945479718157025280"
+          },
+          {
+            "start": 52,
+            "end": 66,
+            "username": "Nick_Prince12",
+            "id": "945479718157025280"
+          }
+        ],
+        "urls": [
+          {
+            "start": 117,
+            "end": 140,
+            "url": "https://t.co/EmqqyvEDcy",
+            "expanded_url": "https://www.standwithcrypto.org/",
+            "display_url": "standwithcrypto.org",
+            "status": 200,
+            "title": "Stand with Crypto Alliance",
+            "description": "Stand with Crypto Alliance is a non-profit organization dedicated to uniting global crypto advocates.",
+            "unwound_url": "https://www.standwithcrypto.org/"
+          },
+          {
+            "start": 141,
+            "end": 164,
+            "url": "https://t.co/faEEDAjNlr",
+            "expanded_url": "https://twitter.com/IQWIKI/status/1692484455368392791/photo/1",
+            "display_url": "pic.twitter.com/faEEDAjNlr",
+            "media_key": "3_1692484063809159168"
+          }
+        ]
+      },
+      "created_at": "2023-08-18T10:31:53.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 71
+      },
+      "id": "1692484455368392791",
+      "text": "@Nick_Prince12 We couldn't let you keep first place @Nick_Prince12, just minted 99 NFTs in support of the movement!\n\nhttps://t.co/EmqqyvEDcy https://t.co/faEEDAjNlr",
+      "edit_history_tweet_ids": [
+        "1692484455368392791"
+      ],
+      "author_id": "2896892108"
+    },
+    {
+      "created_at": "2023-08-18T14:39:01.000Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 935
+      },
+      "id": "1692546647530844324",
+      "entities": {
+        "urls": [
+          {
+            "start": 6,
+            "end": 29,
+            "url": "https://t.co/Oo8XAhnhO6",
+            "expanded_url": "https://twitter.com/MoonwellDeFi/status/1692545691489325430",
+            "display_url": "twitter.com/MoonwellDeFi/s…"
+          }
+        ]
+      },
+      "text": "lfggg https://t.co/Oo8XAhnhO6",
+      "edit_history_tweet_ids": [
+        "1692546647530844324"
+      ],
+      "author_id": "945479718157025280"
+    },
+    {
+      "entities": {
+        "annotations": [
+          {
+            "start": 38,
+            "end": 48,
+            "probability": 0.8095,
+            "type": "Other",
+            "normalized_text": "DeFi Summer"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 4,
+            "end": 14,
+            "username": "zapper_fi",
+            "id": "1208076242366283776"
+          }
+        ],
+        "urls": [
+          {
+            "start": 248,
+            "end": 271,
+            "url": "https://t.co/VrrdY2WbEA",
+            "expanded_url": "https://twitter.com/zapper_fi/status/1692174082069110842",
+            "display_url": "twitter.com/zapper_fi/stat…"
+          }
+        ]
+      },
+      "created_at": "2023-08-18T03:04:03.000Z",
+      "public_metrics": {
+        "retweet_count": 9,
+        "reply_count": 1,
+        "like_count": 39,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "impression_count": 7455
+      },
+      "id": "1692371752457027920",
+      "text": "I 🩷 @zapper_fi - those of us early to DeFi Summer in 2020 fondly remember zapping into farms with single-sided liquidity and hitting refresh on the page constantly to watch our net worth go up... Such an amazing project that continues to innovate! https://t.co/VrrdY2WbEA",
+      "edit_history_tweet_ids": [
+        "1692371752457027920"
+      ],
+      "author_id": "86364019"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "name": "Adabel Guerrero",
+        "id": "130948068",
+        "username": "adabelguerrero",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1516832024274812934/kqd-bPHk_normal.jpg"
+      },
+      {
+        "name": "nickprince.eth 🛡",
+        "id": "945479718157025280",
+        "username": "Nick_Prince12",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689347682131914752/5Z5MI_9Z_normal.jpg"
+      },
+      {
+        "name": "IQ.wiki",
+        "id": "2896892108",
+        "username": "IQWIKI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1646592753672032256/UzgksJ8r_normal.png"
+      },
+      {
+        "name": "LukeYoungblood.eth 🛡️",
+        "id": "86364019",
+        "username": "LukeYoungblood",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601992887016706048/dJx3h7YZ_normal.jpg"
+      }
+    ]
+  },
+  "meta": {
+    "result_count": 5,
+    "next_token": "7140dibdnow9c7btw4831ncfpyt8l7x6wnge6hw6gwdh0"
+  }
+}
