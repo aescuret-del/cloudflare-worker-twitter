@@ -38,7 +38,7 @@ export default {
       let twitterUrl: string
 
       const userid = url.searchParams.get('userid') || '1472197491844026370' // @MoonwellDeFi
-      const max_results = parseInt(url.searchParams.get('max_results') || '5')
+      const max_results = parseInt(url.searchParams.get('max_results') || '6')
       twitterUrl = 'https://api.twitter.com/2/users/' +
         userid +
         '/liked_tweets?max_results=' +
